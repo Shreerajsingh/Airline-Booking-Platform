@@ -1,3 +1,7 @@
+# App Architecture
+<img width="1395" alt="High Level Design" src="https://github.com/user-attachments/assets/bbe362fd-64de-46b6-986d-9a280c882d51" />
+
+
 # Flight Booking System - High Level Design
 
 ## Architecture Components
@@ -49,8 +53,8 @@
 - **Microservices Architecture**: Allows for better fault isolation and technology flexibility.
 
 
-# Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/flight-booking-service.git
-   cd flight-booking-service
-   ```
+# Functional vs Non Functional Requirements
+<img width="1085" alt="Functional vs Non-Funtional Requirement " src="https://github.com/user-attachments/assets/e10b927e-1492-497a-9d17-20265c0ed8ec" />
+
+
+
